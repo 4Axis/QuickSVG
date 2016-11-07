@@ -6,6 +6,7 @@
 //  Copyright (c) 2012 Matthew Newberry. All rights reserved.
 //
 #import <QuartzCore/QuartzCore.h>
+#import <UIKit/UIKit.h>
 
 @class QuickSVG;
 

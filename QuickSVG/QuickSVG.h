@@ -6,6 +6,8 @@
 //  Copyright (c) 2012 Matthew Newberry. All rights reserved.
 //
 
+#import <UIKit/UIKit.h>
+
 @class QuickSVGElement, QuickSVG, QuickSVGParser;
 @protocol QuickSVGParserDelegate;
 
